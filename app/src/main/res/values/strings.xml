@@ -3,6 +3,6 @@
     <string name="toast">Toast</string>
     <string name="toast1">Toast1</string>
     <string name="_0">0</string>
-    <string name="button">Button</string>
+    <string name="button">Count</string>
     <string name="toast_message" >Hello Toast!</string>
 </resources>
